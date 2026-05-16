@@ -61,7 +61,7 @@ If this privacy policy changes, the updated version will be posted at this URL w
 
 If you have any questions about this privacy policy, please open an issue on the GitHub repository or contact us at:
 
-**[your-email@example.com]**
+**[elmolo723@gmail.com]**
 
 ---
 
